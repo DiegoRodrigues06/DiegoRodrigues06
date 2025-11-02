@@ -19,12 +19,18 @@ Buscando meu primeiro estágio.
   <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+  <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+
 </p>
 
 ---
+## Github Status
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoRodrigues06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRodrigues06&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRodrigues06&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRodrigues06&layout=compact&theme=tokyonight)
+---
 
 
 
