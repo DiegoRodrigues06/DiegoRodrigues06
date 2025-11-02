@@ -23,8 +23,8 @@ Buscando meu primeiro estágio.
 
 ---
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego&layout=compact&theme=tokyonight)
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRodrigues06&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRodrigues06&layout=compact&theme=tokyonight)
 
 
 
