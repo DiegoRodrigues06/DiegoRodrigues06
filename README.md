@@ -14,8 +14,10 @@ Buscando meu primeiro estágio.
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,cs,dotnet,python,flask,java,spring" /> <br />
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,idea" /> 
   </a>
-</p>>
+</p>
+
 ---
+
 ## Github Status
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoRodrigues06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
