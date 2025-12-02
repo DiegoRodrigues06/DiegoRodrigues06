@@ -1,7 +1,6 @@
 Olá, eu sou o Diego Rodrigues  
 
-**Desenvolvedor Backend em formação**  
-Apaixonado por tecnologia, focado em backend, mas explorando Sistemas Operacionais e Cyber Segurança. 
+**Apaixonado por tecnologia, focado em backend, mas explorando Sistemas Operacionais e Cyber Segurança.** 
 
 ---
 
