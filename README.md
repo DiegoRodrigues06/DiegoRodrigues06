@@ -2,7 +2,7 @@ Olá, eu sou o Diego Rodrigues
 
 **Apaixonado por tecnologia, focado em backend, mas explorando Sistemas Operacionais e Cyber Segurança.** <br>
 <br>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=DiegoRodrigues06)
 
 ---
 
