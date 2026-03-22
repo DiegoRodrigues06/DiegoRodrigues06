@@ -11,7 +11,7 @@ Olá, eu sou o Diego Rodrigues
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,angular,cs,dotnet,python,django,java,spring" /> <br />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,cs,dotnet,python,django,java,spring" /> <br />
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,visualstudio,vscode,idea" /> 
   </a>
 </p>
